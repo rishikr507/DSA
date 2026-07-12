@@ -7,16 +7,13 @@ class Solution {
         while (low <= high) {
             int mid = low + (high - low) / 2;
 
-            if (arr[low] == arr[high]) {
+            if (arr[low] == arr[mid] && arr[mid] == arr[high]) {
                 ans = Math.min(ans, arr[low]);
                 low++;
                 high--;
                 continue;
             }
-            if (arr[low] <= arr[high]) {
-                ans = Math.min(ans, arr[low]);
-                break;
-            } else if (arr[mid] <= arr[high]) {
+            else if (arr[mid] <= arr[high]) {
                 ans = Math.min(ans, arr[mid]);
                 high = mid - 1;
             } else {
