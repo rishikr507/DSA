@@ -2,21 +2,29 @@ class Solution {
     public int findMin(int[] arr) {
         int n = arr.length;
         int low = 0, high = n - 1;
+        int ans = Integer.MAX_VALUE;
 
         while (low <= high) {
-            int mid = low + ( high - low)/2;
+            int mid = low + (high - low) / 2;
 
-            if(arr[mid] == arr[high]){
+            if (arr[low] == arr[high]) {
+                ans = Math.min(ans, arr[low]);
+                low++;
                 high--;
+                continue;
             }
-            else if(arr[mid] > arr[high]){
+            if (arr[low] <= arr[high]) {
+                ans = Math.min(ans, arr[low]);
+                break;
+            } else if (arr[mid] <= arr[high]) {
+                ans = Math.min(ans, arr[mid]);
+                high = mid - 1;
+            } else {
+                ans = Math.min(ans, arr[low]);
                 low = mid + 1;
             }
-            else{
-                high = mid ;
-            }
         }
-        return arr[low];
+        return ans;
 
         // int n = arr.length;
         // int ans = -1;
