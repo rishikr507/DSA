@@ -2,8 +2,9 @@ class Solution {
     private boolean checkDivSum(int arr[], int div, int threshold) {
         int sum = 0;
         for (int x : arr) {
-            sum += Math.ceil((double) x / (double) div);
-            if(sum > threshold) return false;
+            sum += (x + div - 1) / div;
+            if (sum > threshold)
+                return false;
         }
         return true;
     }
