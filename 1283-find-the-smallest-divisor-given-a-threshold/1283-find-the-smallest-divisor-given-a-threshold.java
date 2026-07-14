@@ -1,10 +1,11 @@
 class Solution {
-    private int divSum(int arr[], int div) {
+    private boolean checkDivSum(int arr[], int div, int threshold) {
         int sum = 0;
         for (int x : arr) {
             sum += Math.ceil((double) x / (double) div);
+            if(sum > threshold) return false;
         }
-        return sum;
+        return true;
     }
 
     public int smallestDivisor(int[] nums, int threshold) {
@@ -14,7 +15,7 @@ class Solution {
 
         while (low <= high) {
             int mid = low + (high - low) / 2;
-            if (divSum(nums, mid) <= threshold) {
+            if (checkDivSum(nums, mid, threshold)) {
                 high = mid - 1;
             } else {
                 low = mid + 1;
