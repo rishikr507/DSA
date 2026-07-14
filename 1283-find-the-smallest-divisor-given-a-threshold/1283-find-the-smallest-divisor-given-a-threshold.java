@@ -10,8 +10,13 @@ class Solution {
     }
 
     public int smallestDivisor(int[] nums, int threshold) {
+        if (threshold < nums.length)
+            return -1;
         int low = 1;
-        int maxi = Arrays.stream(nums).max().getAsInt();
+        int maxi = Integer.MIN_VALUE;
+        for (int x : nums) {
+            maxi = x > maxi ? x : maxi;
+        }
         int high = maxi;
 
         while (low <= high) {
