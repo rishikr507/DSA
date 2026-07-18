@@ -5,11 +5,15 @@ class Solution {
         int sum = carry + arr[n - 1] + 1;
         carry = sum / 10;
         int digit = sum % 10;
+        if (carry == 0) {
+            arr[n - 1] = digit;
+            return arr;
+        }
         al.add(0, digit);
         for (int i = n - 2; i >= 0; i--) {
             sum = carry + arr[i];
             carry = sum / 10;
-            
+
             digit = sum % 10;
             al.add(0, digit);
         }
