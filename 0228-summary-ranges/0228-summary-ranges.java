@@ -1,10 +1,10 @@
 class Solution {
 
-    private String range(int curr, int next) {
+    private StringBuilder range(int curr, int next) {
         if (curr == next - 1) {
-            return "" + curr;
+            return new StringBuilder("" + curr);
         }
-        return curr + "->" + (next - 1);
+        return new StringBuilder(curr + "->" + (next - 1));
     }
 
     public List<String> summaryRanges(int[] arr) {
@@ -18,13 +18,13 @@ class Solution {
             if (arr[i] == next) {
                 next += 1;
             } else {
-                al.add(range(curr, next));
+                al.add(range(curr, next).toString());
                 curr = arr[i];
                 next = arr[i] + 1;
             }
         }
 
-        al.add(range(curr, next));
+        al.add(range(curr, next).toString());
         return al;
     }
 }
