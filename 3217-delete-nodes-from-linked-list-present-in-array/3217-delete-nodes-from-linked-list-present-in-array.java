@@ -9,60 +9,24 @@
  * }
  */
 class Solution {
-    public ListNode removeElements(ListNode head, int val) {
-        if (head == null)
-            return null;
-        ListNode temp = head, prev = null;
-        while (temp != null) {
-            if (temp.val == val) {
-                if (temp == head) {
-                    head = head.next;
-                    temp.next = null;
-                    temp = head;
-                } else if (temp.next == null) {
-                    prev.next = null;
-                    break;
-                } else {
-                    prev.next = temp.next;
-                    temp.next = null;
-                    temp = prev.next;
-                }
-            } else {
-                prev = temp;
-                temp = temp.next;
-            }
-        }
-        return head;
-    }
-
+    
     public ListNode modifiedList(int[] nums, ListNode head) {
         HashSet<Integer> hs = new HashSet<>();
         for (int x : nums) {
             hs.add(x);
         }
-        ListNode temp = head, prev = null;
+        ListNode dummy = new ListNode(-1);
+        dummy.next = head;
+        ListNode temp = dummy;
 
-        while (temp != null) {
-            if (hs.contains(temp.val)) {
-                if (temp == head) {
-                    head = head.next;
-                    temp.next = null;
-                    temp = head;
-                    if(head == null) return null;
-                } else if (temp.next == null) {
-                    prev.next = null;
-                    break;
-                } else {
-                    prev.next = temp.next;
-                    temp.next = null;
-                    temp = prev.next;
-                }
+        while (temp.next != null) {
+            if (hs.contains(temp.next.val)) {
+                temp.next = temp.next.next;
             } else {
-                prev = temp;
                 temp = temp.next;
             }
         }
 
-        return head;
+        return dummy.next;
     }
 }
