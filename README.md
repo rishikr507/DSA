@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/rishikr507/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/rishikr507/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2643-row-with-maximum-ones](https://github.com/rishikr507/DSA/tree/master/2643-row-with-maximum-ones) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rishikr507/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rishikr507/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishikr507/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/rishikr507/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rishikr507/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/rishikr507/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rishikr507/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rishikr507/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
