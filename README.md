@@ -174,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/rishikr507/DSA/tree/master/0219-contains-duplicate-ii) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/rishikr507/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
