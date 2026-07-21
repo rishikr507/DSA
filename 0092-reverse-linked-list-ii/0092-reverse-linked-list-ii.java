@@ -8,19 +8,11 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Pair {
-    ListNode head, tail;
-
-    public Pair(ListNode h, ListNode t) {
-        head = h;
-        tail = t;
-    }
-}
 
 class Solution {
 
-    private Pair reverse(ListNode left, ListNode right) {
-        ListNode prev = right.next;
+    private ListNode reverse(ListNode left, ListNode right) {
+        ListNode prev = right.next; //Join the reverse tail to right half
         ListNode curr = left;
 
         while (prev != right) {
@@ -30,7 +22,7 @@ class Solution {
             curr = front;
         }
 
-        return new Pair(right, left);
+        return right;
     }
 
     public ListNode reverseBetween(ListNode head, int l, int r) {
@@ -52,12 +44,12 @@ class Solution {
 
         ListNode start = (left == null) ? head : left.next;
 
-        Pair it = reverse(start, right);
+        ListNode it = reverse(start, right);
 
         if (left != null)
-            left.next = it.head;
+            left.next = it;
         else
-            head = it.head;
+            head = it;
 
         return head;
     }
