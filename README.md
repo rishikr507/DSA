@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/rishikr507/DSA/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/rishikr507/DSA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/rishikr507/DSA/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/rishikr507/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rishikr507/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishikr507/DSA/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/rishikr507/DSA/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/rishikr507/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/rishikr507/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rishikr507/DSA/tree/master/0206-reverse-linked-list) |
