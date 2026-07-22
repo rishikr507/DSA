@@ -37,14 +37,12 @@ class Solution {
 
         while (t1 != null && t2 != null) {
             if (t1.val != t2.val) {
-                reverse(newHead);
                 return false;
             }
             t1 = t1.next;
             t2 = t2.next;
         }
 
-        reverse(newHead);
         return true;
     }
 }
