@@ -27,6 +27,7 @@ class Solution {
             mini = Math.min(mini, depth);
             return;
         }
+        if(depth > mini) return;
         if (root.left != null)
             findDepth(root.left, depth + 1);
         if (root.right != null)
