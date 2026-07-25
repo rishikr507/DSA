@@ -33,7 +33,7 @@ class Solution {
         while (!q.isEmpty()) {
             int size = q.size();
             int first = -1, last = -1;
-            // int mini = q.peek().idx;
+            int mini = q.peek().idx;
             for (int i = 0; i < size; i++) {
                 Pair p = q.poll();
                 TreeNode temp = p.node;
@@ -44,9 +44,9 @@ class Solution {
                     last = p.idx;
 
                 if (temp.left != null)
-                    q.offer(new Pair(temp.left, 2 * p.idx - 1));
+                    q.offer(new Pair(temp.left, 2 * (p.idx - mini)));
                 if (temp.right != null)
-                    q.offer(new Pair(temp.right, 2 * p.idx));
+                    q.offer(new Pair(temp.right, 2 * (p.idx - mini) + 1));
             }
             width = Math.max(width, last - first + 1);
         }
