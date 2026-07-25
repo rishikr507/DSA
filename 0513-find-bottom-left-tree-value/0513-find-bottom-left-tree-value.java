@@ -18,12 +18,9 @@
 class Solution {
     int maxLevel = -1;
     int value = -1;
-    private boolean isLeaf(TreeNode root){
-        if(root.left == null && root.right == null) return true;
-        return false;
-    }
+   
     private void findBLV(TreeNode root,int level){
-        if(isLeaf(root)){
+        if(root.left == null && root.right == null){
             if(level > maxLevel){
                 maxLevel = level;
                 value = root.val;
