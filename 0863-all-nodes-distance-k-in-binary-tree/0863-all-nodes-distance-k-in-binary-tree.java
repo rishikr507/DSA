@@ -32,26 +32,30 @@ class Solution {
         Queue<TreeNode> q = new LinkedList<>();
         HashMap<TreeNode, Boolean> visited = new HashMap<>();
         q.offer(target);
+        visited.put(target, true);
         int dist = 0;
 
         while (!q.isEmpty()) {
             if (dist == k)
                 break;
+            dist++;
             int size = q.size();
             for (int i = 1; i <= size; i++) {
                 TreeNode temp = q.poll();
-                visited.put(temp, true);
+
                 if (temp.left != null && visited.get(temp.left) == null) {
                     q.offer(temp.left);
+                    visited.put(temp.left, true);
                 }
                 if (temp.right != null && visited.get(temp.right) == null) {
                     q.offer(temp.right);
+                    visited.put(temp.right, true);
                 }
                 if (map.get(temp) != null && visited.get(map.get(temp)) == null) {
                     q.offer(map.get(temp));
+                    visited.put(map.get(temp), true);
                 }
             }
-            dist++;
         }
         List<Integer> ans = new ArrayList<>();
         while (!q.isEmpty()) {
