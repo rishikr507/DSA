@@ -20,7 +20,7 @@ class Solution {
             n++;
         }
         k = k % n;
-        if (k == 0 || n == k)
+        if (k == 0 )
             return head;
         ListNode temp = head;
         for (int i = 1; i < n - k; i++) {
