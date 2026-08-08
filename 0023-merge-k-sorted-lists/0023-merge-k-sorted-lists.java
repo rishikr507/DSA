@@ -10,7 +10,8 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        PriorityQueue<ListNode> heap = new PriorityQueue<>((a, b) -> Integer.compare(a.val, b.val));
+        if(lists == null || lists.length == 0) return null;
+        PriorityQueue<ListNode> heap = new PriorityQueue<>(lists.length , (a, b) -> a.val - b.val);
 		for (var head : lists) {
 			if (head != null)
 				heap.offer(head);
