@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rishikr507/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishikr507/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/rishikr507/DSA/tree/master/0561-array-partition) |
+| [0661-image-smoother](https://github.com/rishikr507/DSA/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/rishikr507/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rishikr507/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/rishikr507/DSA/tree/master/0867-transpose-matrix) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rishikr507/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishikr507/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0661-image-smoother](https://github.com/rishikr507/DSA/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/rishikr507/DSA/tree/master/0867-transpose-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/rishikr507/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/rishikr507/DSA/tree/master/2643-row-with-maximum-ones) |
