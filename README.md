@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/rishikr507/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/rishikr507/DSA/tree/master/0561-array-partition) |
 | [0661-image-smoother](https://github.com/rishikr507/DSA/tree/master/0661-image-smoother) |
+| [0697-degree-of-an-array](https://github.com/rishikr507/DSA/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/rishikr507/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rishikr507/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/rishikr507/DSA/tree/master/0867-transpose-matrix) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishikr507/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishikr507/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/rishikr507/DSA/tree/master/0496-next-greater-element-i) |
+| [0697-degree-of-an-array](https://github.com/rishikr507/DSA/tree/master/0697-degree-of-an-array) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rishikr507/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rishikr507/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/rishikr507/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
