@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/rishikr507/DSA/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/rishikr507/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rishikr507/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0832-flipping-an-image](https://github.com/rishikr507/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rishikr507/DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/rishikr507/DSA/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishikr507/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rishikr507/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishikr507/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0661-image-smoother](https://github.com/rishikr507/DSA/tree/master/0661-image-smoother) |
+| [0832-flipping-an-image](https://github.com/rishikr507/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rishikr507/DSA/tree/master/0867-transpose-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/rishikr507/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/rishikr507/DSA/tree/master/2643-row-with-maximum-ones) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rishikr507/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishikr507/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/rishikr507/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0832-flipping-an-image](https://github.com/rishikr507/DSA/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/rishikr507/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishikr507/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rishikr507/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rishikr507/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/rishikr507/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/rishikr507/DSA/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/rishikr507/DSA/tree/master/0495-teemo-attacking) |
+| [0832-flipping-an-image](https://github.com/rishikr507/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rishikr507/DSA/tree/master/0867-transpose-matrix) |
 ## Counting Sort
 |  |
