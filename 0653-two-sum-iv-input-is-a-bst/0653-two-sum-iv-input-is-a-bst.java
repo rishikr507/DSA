@@ -14,31 +14,52 @@
  * }
  */
 class Solution {
-    private boolean find(TreeNode curr,TreeNode root, int x) {
-        while (root != null) {
-            if (root.val == x && root != curr)
-                return true;
-            else if (x < root.val)
-                root = root.left;
-            else
-                root = root.right;
-        }
-        return false;
-    }
+    // private boolean find(TreeNode curr, TreeNode root, int x) {
+    //     while (root != null) {
+    //         if (root.val == x && root != curr)
+    //             return true;
+    //         else if (x < root.val)
+    //             root = root.left;
+    //         else
+    //             root = root.right;
+    //     }
+    //     return false;
+    // }
 
-    private boolean helper(TreeNode curr, TreeNode root, int k) {
-        if (curr == null)
-            return false;
-        int x = k - curr.val;
-        boolean flag = find(curr,root, x);
+    // private boolean helper(TreeNode curr, TreeNode root, int k) {
+    //     if (curr == null)
+    //         return false;
+    //     int x = k - curr.val;
+    //     boolean flag = find(curr, root, x);
 
-        if (flag == true)
-            return true;
+    //     if (flag == true)
+    //         return true;
 
-        return helper(curr.left, root, k) || helper(curr.right, root, k);
+    //     return helper(curr.left, root, k) || helper(curr.right, root, k);
+    // }
+    private void inorder(TreeNode root, ArrayList<Integer> al) {
+        if (root == null)
+            return;
+
+        inorder(root.left, al);
+        al.add(root.val);
+        inorder(root.right, al);
     }
 
     public boolean findTarget(TreeNode root, int k) {
-        return helper(root, root, k);
+        ArrayList<Integer> al = new ArrayList<>();
+        inorder(root, al);
+        int n = al.size();
+        int i = 0, j = n - 1;
+
+        while (i < j) {
+            int sum = al.get(i) + al.get(j);
+            if(sum == k){
+                return true;
+            }
+            else if(sum < k) i++;
+            else j--;  
+        }
+        return false;
     }
 }
