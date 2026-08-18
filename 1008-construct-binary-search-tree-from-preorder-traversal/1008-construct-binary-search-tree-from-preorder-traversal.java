@@ -14,15 +14,14 @@
  * }
  */
 class Solution {
-    private TreeNode constBST(int[] inorder, int is, int ie, int[] preorder, int ps, int pe,
-            HashMap<Integer, Integer> map) {
-        if (is > ie || ps > pe)
+    private TreeNode constBST(int[] preorder, int ub, int[] i) {
+        if (i[0] >= preorder.length || preorder[i[0]] > ub)
             return null;
-        TreeNode root = new TreeNode(preorder[ps]);
-        int idx = map.get(root.val);
-        int cnt = idx - is;
-        root.left = constBST(inorder, is, idx - 1, preorder, ps + 1, ps + cnt, map);
-        root.right = constBST(inorder, idx + 1, ie, preorder, ps + cnt + 1, pe, map);
+        TreeNode root = new TreeNode(preorder[i[0]]);
+        i[0]++;
+
+        root.left = constBST(preorder, root.val, i);
+        root.right = constBST(preorder, ub, i);
         return root;
     }
 
@@ -31,14 +30,7 @@ class Solution {
         if (n == 0)
             return null;
 
-        int[] inorder = preorder.clone();
-        Arrays.sort(inorder);
-
-        HashMap<Integer, Integer> map = new HashMap<>();
-        for (int i = 0; i < n; i++) {
-            map.put(inorder[i], i);
-        }
-        TreeNode root = constBST(inorder, 0, n - 1, preorder, 0, n - 1, map);
+        TreeNode root = constBST(preorder, Integer.MAX_VALUE, new int[] { 0 });
         return root;
         // int n = preorder.length;
         // if (n == 0)
