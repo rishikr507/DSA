@@ -7,7 +7,9 @@ class Solution {
         }
 
         for (int idx = i; idx < arr.length; idx++) {
-            if ((idx == i || arr[idx] != arr[idx - 1]) && arr[idx] <= t) {
+            if (idx == i || arr[idx] != arr[idx - 1]) {
+                if (arr[idx] > t)
+                    break;
                 al.add(arr[idx]);
                 combSum(arr, idx + 1, t - arr[idx], al, res);
                 al.remove(al.size() - 1);
