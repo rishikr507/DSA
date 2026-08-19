@@ -14,31 +14,50 @@
  * }
  */
 class Solution {
-    private void findInorder(TreeNode root, ArrayList<Integer> inorder) {
+    private TreeNode viol1, viol2, middle, prev;
+
+    private void inorder(TreeNode root) {
         if (root == null)
             return;
 
-        findInorder(root.left, inorder);
-        inorder.add(root.val);
-        findInorder(root.right, inorder);
+        inorder(root.left);
+        if (prev != null && root.val < prev.val) {
+            if (viol1 == null) {
+                viol1 = prev;
+                middle = root;
+            } else {
+                viol2 = root;
+            }
+        }
+        prev = root;
+        inorder(root.right);
     }
 
-    private void verifyBST(TreeNode root, ArrayList<Integer> inorder, int[] i) {
-        if (root == null)
-            return;
+    // private void verifyBST(TreeNode root, ArrayList<Integer> inorder, int[] i) {
+    //     if (root == null)
+    //         return;
 
-        verifyBST(root.left, inorder, i);
-        root.val = inorder.get(i[0]++);
-        verifyBST(root.right, inorder, i);
+    //     verifyBST(root.left, inorder, i);
+    //     root.val = inorder.get(i[0]++);
+    //     verifyBST(root.right, inorder, i);
+    // }
+    private void swap(TreeNode a, TreeNode b) {
+        int t = a.val;
+        a.val = b.val;
+        b.val = t;
     }
 
     public void recoverTree(TreeNode root) {
         if (root == null)
             return;
-
-        ArrayList<Integer> inorder = new ArrayList<>();
-        findInorder(root, inorder);
-        Collections.sort(inorder);
-        verifyBST(root, inorder, new int[] { 0 });
+        viol1 = viol2 = middle = prev = null;
+        inorder(root);
+        if (viol1 != null) {
+            if (viol2 != null) {
+                swap(viol1, viol2);
+            } else {
+                swap(viol1, middle);
+            }
+        }
     }
 }
