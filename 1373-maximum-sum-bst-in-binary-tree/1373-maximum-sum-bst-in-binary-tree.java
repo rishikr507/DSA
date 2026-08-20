@@ -14,12 +14,12 @@
  * }
  */
 class Tuple {
-    int sum, small, larg;
+    int sum, min, max;
 
     public Tuple(int _c, int _s, int _l) {
         sum = _c;
-        small = _s;
-        larg = _l;
+        min = _s;
+        max = _l;
     }
 }
 
@@ -30,22 +30,25 @@ class Solution {
 
     private Tuple postorder(TreeNode root) {
         if (root == null)
-            return new Tuple(0, MAX, MIN);
+            return new Tuple(0, MAX, MIN); // [0, inf, -inf]
 
-        Tuple left = postorder(root.left);
-        Tuple right = postorder(root.right);
-        if (left.larg < root.val && root.val < right.small) {
-            int sum = left.sum + right.sum + root.val;
+        Tuple l = postorder(root.left);
+        Tuple r = postorder(root.right);
+
+        // We need maximum sum of BST, if we condsider a valide BST then all sum of all node should be maximum ... so there is a possiblity a smaller BST can have sum > than a larger BST... That's why we taking ans as making sum.
+        if (l.max < root.val && root.val < r.min) {
+            int sum = l.sum + r.sum + root.val;
+            // We need Max sum of a Valid BST
             ans = Math.max(sum, ans);
             return new Tuple(sum,
-                    Math.min(left.small, root.val),
-                    Math.max(right.larg, root.val));
+                    Math.min(l.min, root.val),
+                    Math.max(r.max, root.val));
         }
-        return new Tuple(Math.max(left.sum, right.sum), MIN, MAX);
+        return new Tuple(Math.max(l.sum, r.sum), MIN, MAX);
     }
 
     public int maxSumBST(TreeNode root) {
-        Tuple t = postorder(root);
+        postorder(root);
         return ans;
     }
 }
