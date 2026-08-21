@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishikr507/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rishikr507/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/rishikr507/DSA/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/rishikr507/DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishikr507/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/rishikr507/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rishikr507/DSA/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/rishikr507/DSA/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/rishikr507/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/rishikr507/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/rishikr507/DSA/tree/master/0832-flipping-an-image) |
