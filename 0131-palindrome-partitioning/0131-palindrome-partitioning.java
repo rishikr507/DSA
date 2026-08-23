@@ -12,17 +12,17 @@ class Solution {
         return true;
     }
 
-    private void solve(String str, int s, int e, List<List<String>> res, List<String> al) {
-        if (str.length() == s) {
+    private void solve(String str, int i, List<String> al, List<List<String>> res) {
+        if (i == str.length()) {
             res.add(new ArrayList<>(al));
             return;
         }
 
-        for (int i = s; i < str.length(); i++) {
-            String temp = str.substring(s, i+1);
+        for (int p = i; p < str.length(); p++) {
+            String temp = str.substring(i, p + 1);
             if (isPalindrome(temp)) {
                 al.add(temp);
-                solve(str, i + 1, e, res, al);
+                solve(str, p + 1, al, res);
                 al.remove(al.size() - 1);
             }
         }
@@ -31,7 +31,7 @@ class Solution {
     public List<List<String>> partition(String s) {
         List<List<String>> res = new ArrayList<>();
         List<String> al = new ArrayList<>();
-        solve(s, 0, s.length(), res, al);
+        solve(s, 0, al, res);
         return res;
     }
 }
