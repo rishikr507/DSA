@@ -1,17 +1,4 @@
 class Solution {
-    String helper(int n, int k, String ans, int fact, ArrayList<Integer> al) {
-        if (k == 0) {
-            for (int x : al) {
-                ans = ans + x;
-            }
-            return ans;
-        }
-        fact = fact / n;
-        int rem = k / fact;
-        ans = ans + al.get(rem);
-        al.remove(rem);
-        return helper(n - 1, k % fact, ans, fact, al);
-    }
 
     public String getPermutation(int n, int k) {
         ArrayList<Integer> al = new ArrayList<>();
@@ -20,7 +7,21 @@ class Solution {
             al.add(i);
             fact *= i;
         }
-
-        return helper(n, k-1 , "", fact, al);
+        String ans = "";
+        k--;
+        for (int i = n; i > 0; i--) {
+            fact = fact / i;
+            int rem = k / fact;
+            ans = ans + al.get(rem);
+            al.remove(rem);
+            k = k % fact;
+            if (k == 0)
+                break;
+        }
+        if (al.size() > 0) {
+            for (int x : al)
+                ans = ans + x;
+        }
+        return ans;
     }
 }
