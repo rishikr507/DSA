@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rishikr507/DSA/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/rishikr507/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/rishikr507/DSA/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/rishikr507/DSA/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/rishikr507/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rishikr507/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/rishikr507/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/rishikr507/DSA/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/rishikr507/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/rishikr507/DSA/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/rishikr507/DSA/tree/master/0509-fibonacci-number) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/rishikr507/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Greedy
 |  |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/rishikr507/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rishikr507/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rishikr507/DSA/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/rishikr507/DSA/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rishikr507/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/rishikr507/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
@@ -565,4 +568,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rishikr507/DSA/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/rishikr507/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
