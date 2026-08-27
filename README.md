@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rishikr507/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rishikr507/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rishikr507/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/rishikr507/DSA/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/rishikr507/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/rishikr507/DSA/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/rishikr507/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rishikr507/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishikr507/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rishikr507/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/rishikr507/DSA/tree/master/0131-palindrome-partitioning) |
@@ -559,4 +561,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/rishikr507/DSA/tree/master/1042-flower-planting-with-no-adjacent) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rishikr507/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
