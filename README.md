@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rishikr507/DSA/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/rishikr507/DSA/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/rishikr507/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/rishikr507/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rishikr507/DSA/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/rishikr507/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/rishikr507/DSA/tree/master/0441-arranging-coins) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rishikr507/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/rishikr507/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rishikr507/DSA/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/rishikr507/DSA/tree/master/0191-number-of-1-bits) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rishikr507/DSA/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/rishikr507/DSA/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/rishikr507/DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/rishikr507/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rishikr507/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rishikr507/DSA/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/rishikr507/DSA/tree/master/0495-teemo-attacking) |
 | [0832-flipping-an-image](https://github.com/rishikr507/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rishikr507/DSA/tree/master/0867-transpose-matrix) |
