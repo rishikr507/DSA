@@ -1,7 +1,7 @@
 class Solution {
     public int countPrimes(int n) {
-        if (n == 0 || n == 1)
-            return 0;
+        // if (n == 0 || n == 1)
+        //     return 0;
         int cnt = 0;
         boolean[] prime = new boolean[n + 1];
         Arrays.fill(prime, true);
