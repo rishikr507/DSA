@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishikr507/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rishikr507/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/rishikr507/DSA/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/rishikr507/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/rishikr507/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rishikr507/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/rishikr507/DSA/tree/master/0228-summary-ranges) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/rishikr507/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rishikr507/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rishikr507/DSA/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/rishikr507/DSA/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/rishikr507/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/rishikr507/DSA/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/rishikr507/DSA/tree/master/0509-fibonacci-number) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rishikr507/DSA/tree/master/0204-count-primes) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/rishikr507/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -576,4 +579,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rishikr507/DSA/tree/master/0202-happy-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rishikr507/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rishikr507/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rishikr507/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rishikr507/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
