@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/rishikr507/DSA/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/rishikr507/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rishikr507/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2523-closest-prime-numbers-in-range](https://github.com/rishikr507/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/rishikr507/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/rishikr507/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Dynamic Programming
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rishikr507/DSA/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/rishikr507/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/rishikr507/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -587,12 +589,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rishikr507/DSA/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/rishikr507/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rishikr507/DSA/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/rishikr507/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rishikr507/DSA/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/rishikr507/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
