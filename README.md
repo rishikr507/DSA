@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/rishikr507/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rishikr507/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/rishikr507/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/rishikr507/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/rishikr507/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rishikr507/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/rishikr507/DSA/tree/master/0078-subsets) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/rishikr507/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rishikr507/DSA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/rishikr507/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/rishikr507/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/rishikr507/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishikr507/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0661-image-smoother](https://github.com/rishikr507/DSA/tree/master/0661-image-smoother) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishikr507/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/rishikr507/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/rishikr507/DSA/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/rishikr507/DSA/tree/master/0495-teemo-attacking) |
 | [0832-flipping-an-image](https://github.com/rishikr507/DSA/tree/master/0832-flipping-an-image) |
