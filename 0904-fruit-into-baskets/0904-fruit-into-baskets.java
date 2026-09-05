@@ -8,8 +8,9 @@ class Solution {
             int f = fruits[r];
             map.put(f, map.getOrDefault(f, 0) + 1);
             if (map.size() > 2) {
-                map.put(fruits[l], map.get(fruits[l]) - 1);
-                map.remove(fruits[l], 0);
+                int ele = fruits[l];
+                map.put(ele, map.get(ele) - 1);
+                map.remove(ele, 0);
                 l++;
             }
             if (map.size() <= 2) {
