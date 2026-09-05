@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rishikr507/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2643-row-with-maximum-ones](https://github.com/rishikr507/DSA/tree/master/2643-row-with-maximum-ones) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rishikr507/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/rishikr507/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rishikr507/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rishikr507/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/rishikr507/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/rishikr507/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/rishikr507/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rishikr507/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [3477-fruits-into-baskets-ii](https://github.com/rishikr507/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/rishikr507/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/rishikr507/DSA/tree/master/0867-transpose-matrix) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rishikr507/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3477-fruits-into-baskets-ii](https://github.com/rishikr507/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -643,4 +646,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rishikr507/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/rishikr507/DSA/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/rishikr507/DSA/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
