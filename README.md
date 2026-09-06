@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/rishikr507/DSA/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/rishikr507/DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishikr507/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rishikr507/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/rishikr507/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/rishikr507/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishikr507/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rishikr507/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishikr507/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/rishikr507/DSA/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rishikr507/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/rishikr507/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rishikr507/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/rishikr507/DSA/tree/master/0392-is-subsequence) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rishikr507/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rishikr507/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishikr507/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Trie
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishikr507/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/rishikr507/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rishikr507/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/rishikr507/DSA/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rishikr507/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishikr507/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
