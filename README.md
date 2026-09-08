@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rishikr507/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/rishikr507/DSA/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rishikr507/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/rishikr507/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/rishikr507/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/rishikr507/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rishikr507/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rishikr507/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/rishikr507/DSA/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rishikr507/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/rishikr507/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rishikr507/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishikr507/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Trie
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/rishikr507/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rishikr507/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/rishikr507/DSA/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/rishikr507/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rishikr507/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishikr507/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Linked List
