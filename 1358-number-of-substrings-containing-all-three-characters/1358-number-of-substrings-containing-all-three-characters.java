@@ -1,13 +1,11 @@
 class Solution {
     public int numberOfSubstrings(String s) {
-        int lastSeen [] = {-1,-1,-1};
-        int cnt  = 0;
-        for(int i =0; i < s.length(); i++){
+        int lastSeen[] = { -1, -1, -1 };
+        int cnt = 0;
+        for (int i = 0; i < s.length(); i++) {
             lastSeen[s.charAt(i) - 'a'] = i;
-            int mini = Math.min(lastSeen[0] , Math.min(lastSeen[1], lastSeen[2]));
-            if(mini != -1){
-                cnt += mini + 1;
-            }
+            int mini = Math.min(lastSeen[0], Math.min(lastSeen[1], lastSeen[2]));
+            cnt += mini + 1;
         }
         return cnt;
     }
