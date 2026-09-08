@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2523-closest-prime-numbers-in-range](https://github.com/rishikr507/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/rishikr507/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/rishikr507/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3870-count-commas-in-range](https://github.com/rishikr507/DSA/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rishikr507/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
