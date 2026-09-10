@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/rishikr507/DSA/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rishikr507/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/rishikr507/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1652-defuse-the-bomb](https://github.com/rishikr507/DSA/tree/master/1652-defuse-the-bomb) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rishikr507/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/rishikr507/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/rishikr507/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/rishikr507/DSA/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rishikr507/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rishikr507/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1652-defuse-the-bomb](https://github.com/rishikr507/DSA/tree/master/1652-defuse-the-bomb) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishikr507/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Linked List
 |  |
