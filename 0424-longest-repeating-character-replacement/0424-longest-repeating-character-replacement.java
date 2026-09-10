@@ -5,8 +5,9 @@ class Solution {
         int[] hash = new int[26];
 
         while (r < n) {
-            hash[s.charAt(r) - 'A']++;
-            maxf = Math.max(maxf, hash[s.charAt(r) - 'A']);
+            char ch = s.charAt(r);
+            hash[ch - 'A']++;
+            maxf = Math.max(maxf, hash[ch - 'A']);
             if (r - l + 1 - maxf > k) {
                 hash[s.charAt(l) - 'A']--;
                 l++;
