@@ -701,4 +701,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/rishikr507/DSA/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/rishikr507/DSA/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/rishikr507/DSA/tree/master/0620-not-boring-movies) |
+| [1527-patients-with-a-condition](https://github.com/rishikr507/DSA/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
