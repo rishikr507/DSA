@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishikr507/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/rishikr507/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rishikr507/DSA/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/rishikr507/DSA/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rishikr507/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rishikr507/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/rishikr507/DSA/tree/master/0138-copy-list-with-random-pointer) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishikr507/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/rishikr507/DSA/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/rishikr507/DSA/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/rishikr507/DSA/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/rishikr507/DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/rishikr507/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rishikr507/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishikr507/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/rishikr507/DSA/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/rishikr507/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rishikr507/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishikr507/DSA/tree/master/0424-longest-repeating-character-replacement) |
