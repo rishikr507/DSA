@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/rishikr507/DSA/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/rishikr507/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishikr507/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/rishikr507/DSA/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/rishikr507/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/rishikr507/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishikr507/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rishikr507/DSA/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/rishikr507/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/rishikr507/DSA/tree/master/0561-array-partition) |
 ## Prefix Sum
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rishikr507/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishikr507/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/rishikr507/DSA/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/rishikr507/DSA/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/rishikr507/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rishikr507/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0832-flipping-an-image](https://github.com/rishikr507/DSA/tree/master/0832-flipping-an-image) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rishikr507/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishikr507/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/rishikr507/DSA/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/rishikr507/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/rishikr507/DSA/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishikr507/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rishikr507/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -704,4 +708,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/rishikr507/DSA/tree/master/0620-not-boring-movies) |
 | [1407-top-travellers](https://github.com/rishikr507/DSA/tree/master/1407-top-travellers) |
 | [1527-patients-with-a-condition](https://github.com/rishikr507/DSA/tree/master/1527-patients-with-a-condition) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/rishikr507/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
