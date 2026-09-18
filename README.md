@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rishikr507/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishikr507/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/rishikr507/DSA/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/rishikr507/DSA/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/rishikr507/DSA/tree/master/0661-image-smoother) |
 | [0697-degree-of-an-array](https://github.com/rishikr507/DSA/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/rishikr507/DSA/tree/master/0704-binary-search) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/rishikr507/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/rishikr507/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/rishikr507/DSA/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/rishikr507/DSA/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/rishikr507/DSA/tree/master/0860-lemonade-change) |
 ## Prefix Sum
 |  |
