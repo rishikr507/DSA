@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/rishikr507/DSA/tree/master/1652-defuse-the-bomb) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rishikr507/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/rishikr507/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/rishikr507/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/rishikr507/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rishikr507/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/rishikr507/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/rishikr507/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/rishikr507/DSA/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/rishikr507/DSA/tree/master/0860-lemonade-change) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/rishikr507/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
 |  |
 | ------- |
