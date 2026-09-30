@@ -728,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/rishikr507/DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/rishikr507/DSA/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/rishikr507/DSA/tree/master/0620-not-boring-movies) |
+| [1070-product-sales-analysis-iii](https://github.com/rishikr507/DSA/tree/master/1070-product-sales-analysis-iii) |
 | [1407-top-travellers](https://github.com/rishikr507/DSA/tree/master/1407-top-travellers) |
 | [1527-patients-with-a-condition](https://github.com/rishikr507/DSA/tree/master/1527-patients-with-a-condition) |
 ## Quicksort
