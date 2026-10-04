@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/rishikr507/DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/rishikr507/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rishikr507/DSA/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/rishikr507/DSA/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/rishikr507/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/rishikr507/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rishikr507/DSA/tree/master/0074-search-a-2d-matrix) |
